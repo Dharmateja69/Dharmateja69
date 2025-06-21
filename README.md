@@ -83,11 +83,6 @@
 
 ---
 
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dharmateja69&icon=9&color=13" alt="Visitor Count" />
-</p>
 
 
 ---
