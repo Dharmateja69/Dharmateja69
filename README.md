@@ -39,4 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmateja69&show_icons=true&locale=en" alt="dharmateja69" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats..vercel.app/?username=dharmateja69&show_icons=true&locale=en&layout=compact" alt="dharmateja69" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmateja69&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
